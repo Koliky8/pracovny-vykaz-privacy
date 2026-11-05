@@ -1,4 +1,5 @@
-﻿# Pracovný výkaz — zásady ochrany súkromia
+﻿# Pracovný výkaz — právne stránky
 
-Po zapnutí GitHub Pages:
-https://koliky8.github.io/pracovny-vykaz-privacy/
+GitHub Pages:
+- Ochrana súkromia: https://koliky8.github.io/pracovny-vykaz-privacy/
+- Podmienky používania: https://koliky8.github.io/pracovny-vykaz-privacy/terms.html
